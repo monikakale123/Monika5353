@@ -1,0 +1,42 @@
+2023-05-21 11:45:41,163 : INFO : 20 : 18 : test_page_title_001 : test_page_title_001 is started
+2023-05-21 11:45:41,165 : INFO : 20 : 20 : test_page_title_001 : Opening Browser
+2023-05-21 11:45:43,552 : INFO : 20 : 22 : test_page_title_001 : Go to Url:https://phptravels.net/api/admin/
+2023-05-21 11:45:43,657 : INFO : 20 : 26 : test_page_title_001 : Page Title:Administator Login
+2023-05-21 11:45:43,658 : INFO : 20 : 28 : test_page_title_001 : test_page_title_001 is Passed
+2023-05-21 11:45:55,963 : INFO : 20 : 36 : test_login_002 : test_login_002 is started
+2023-05-21 11:45:55,963 : INFO : 20 : 38 : test_login_002 : Opening Browser
+2023-05-21 11:45:58,795 : INFO : 20 : 40 : test_login_002 : Go to Url :https://phptravels.net/api/admin/
+2023-05-21 11:46:01,191 : INFO : 20 : 43 : test_login_002 : Entering Email:admin@phptravels.com
+2023-05-21 11:46:03,989 : INFO : 20 : 45 : test_login_002 : Entering Password:demoadmin
+2023-05-21 11:46:07,173 : INFO : 20 : 47 : test_login_002 : Clicking login Button
+2023-05-21 11:46:19,949 : INFO : 20 : 52 : test_login_002 : Clicking menu Button
+2023-05-21 11:46:24,051 : INFO : 20 : 54 : test_login_002 : Clicking logout Button
+2023-05-21 11:46:24,051 : INFO : 20 : 56 : test_login_002 : test_login_002 is Passed
+20 : INFO : 73 : driver_location : Applicable driver not found; attempting to install with Selenium Manager (Beta) : 2023-05-21 11:53:46,184
+20 : INFO : 18 : test_page_title_001 : test_page_title_001 is started : 2023-05-21 11:53:59,345
+20 : INFO : 20 : test_page_title_001 : Opening Browser : 2023-05-21 11:53:59,345
+20 : INFO : 22 : test_page_title_001 : Go to Url:https://phptravels.net/api/admin/ : 2023-05-21 11:54:01,714
+20 : INFO : 26 : test_page_title_001 : Page Title:Administator Login : 2023-05-21 11:54:01,996
+20 : INFO : 28 : test_page_title_001 : test_page_title_001 is Passed : 2023-05-21 11:54:01,997
+20 : INFO : 73 : driver_location : Applicable driver not found; attempting to install with Selenium Manager (Beta) : 2023-05-21 11:54:02,059
+20 : INFO : 36 : test_login_002 : test_login_002 is started : 2023-05-21 11:54:17,525
+20 : INFO : 38 : test_login_002 : Opening Browser : 2023-05-21 11:54:17,525
+20 : INFO : 40 : test_login_002 : Go to Url :https://phptravels.net/api/admin/ : 2023-05-21 11:54:22,055
+20 : INFO : 43 : test_login_002 : Entering Email:admin@phptravels.com : 2023-05-21 11:54:27,633
+20 : INFO : 45 : test_login_002 : Entering Password:demoadmin : 2023-05-21 11:54:32,291
+20 : INFO : 47 : test_login_002 : Clicking login Button : 2023-05-21 11:54:37,760
+20 : INFO : 52 : test_login_002 : Clicking menu Button : 2023-05-21 11:54:49,411
+20 : INFO : 54 : test_login_002 : Clicking logout Button : 2023-05-21 11:54:53,971
+20 : INFO : 56 : test_login_002 : test_login_002 is Passed : 2023-05-21 11:54:53,973
+20 : INFO : 18 : test_page_title_001 : test_page_title_001 is started : 2023-05-21 11:56:48,581
+20 : INFO : 20 : test_page_title_001 : Opening Browser : 2023-05-21 11:56:48,587
+20 : INFO : 36 : test_login_002 : test_login_002 is started : 2023-05-21 11:56:49,662
+20 : INFO : 38 : test_login_002 : Opening Browser : 2023-05-21 11:56:49,662
+20 : INFO : 22 : test_page_title_001 : Go to Url:https://phptravels.net/api/admin/ : 2023-05-21 11:56:52,377
+20 : INFO : 26 : test_page_title_001 : Page Title:Administator Login : 2023-05-21 11:56:52,705
+20 : INFO : 28 : test_page_title_001 : test_page_title_001 is Passed : 2023-05-21 11:56:52,706
+20 : INFO : 40 : test_login_002 : Go to Url :https://phptravels.net/api/admin/ : 2023-05-21 11:56:53,281
+20 : INFO : 43 : test_login_002 : Entering Email:admin@phptravels.com : 2023-05-21 11:56:55,107
+20 : INFO : 45 : test_login_002 : Entering Password:demoadmin : 2023-05-21 11:56:57,280
+20 : INFO : 47 : test_login_002 : Clicking login Button : 2023-05-21 11:56:59,606
+20 : INFO : 59 : test_login_002 : test_login_002 is Failed : 2023-05-21 11:57:14,186
